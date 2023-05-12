@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header { 
+        background-color: blue;
+        border-radius: 15px;
+
+}
+
+b {
+  color: white;
+}
+
+header img {
+    margin: 5px;
+    border-radius: 10px;
+}
+
+h1 {
+  color: darkyellow;
+  text-align: center;
+
+}
+
+footer{
+  background-color: blue;
+  border: 3px blue;
+  border-radius: 5px;
+}
+footer p{
+  background-color: white;
+  padding: 4px;
+}
+nav {
+margin: 7px;
+padding: 10px;
+border: 2px solid blue; 
+border-radius: 10px;
+text-align: center;
+}         
+
+nav a {
+  text-decoration:  none;
+  color: blue;
+  text-align: center; 
+}
+
+.prod{
+    background-color: aqua;
+}
+
+.red{
+  border: 5px solid aqua;
+  border-radius: 10;
+}
